@@ -1,0 +1,1 @@
+STM32_Programmer_CLI -c port=SWD -w "d:\WinSystem\Documents\111esp32proj\TempCheck\build\Release\TempCheck.hex" -v -ob displ -rst

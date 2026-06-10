@@ -1,0 +1,30 @@
+# 编译产物
+build/
+*.o
+*.obj
+*.elf
+*.hex
+*.bin
+*.map
+*.su
+*.lst
+
+# 参考项目 (不提交)
+4-1 OLED显示屏/
+3-3 蜂鸣器/
+
+# IDE 临时文件
+mx.scratch
+*.mxproject
+.settings/
+.vscode/
+.clangd
+
+# Keil 工程文件 (参考项目)
+*.uvguix.*
+*.uvoptx
+*.uvprojx
+*.dbgconf
+DebugConfig/
+Listings/
+Objects/
